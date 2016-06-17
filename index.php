@@ -21,7 +21,7 @@ setlocale(LC_ALL,'ru_RU.65001','rus_RUS.65001','Russian_Russia.65001','russian')
     function SendRequest(){
             $.ajax({
                 type: "POST",
-                url: "/my_handler.php",
+                url: "my_handler.php",
                 data: "&data_1="+$('#data_1').val()+"&data_2="+$('#data_2').val(),
                 success: function(response){
                 $('#response').html(response);

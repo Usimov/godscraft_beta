@@ -35,7 +35,6 @@ setlocale(LC_ALL,'ru_RU.65001','rus_RUS.65001','Russian_Russia.65001','russian')
 <h1>Я люблю Котика!</h1>
 <p>Это мой самый любимый котик)))</p>
 <p>Самый-присамый любимый)</p>
-
 <table>
     <tr>
         <th>Запрос</th>
@@ -57,3 +56,6 @@ setlocale(LC_ALL,'ru_RU.65001','rus_RUS.65001','Russian_Russia.65001','russian')
 </body>
 
 </html>
+<?php
+$arr = [ 1, 2, 3 ];
+var_dump( $arr );

@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/Usimov/MySite.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Usimov/resnicy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Public\Apache24\htdocs" />
+    <option name="cloneParentDir" value="C:\Users\Public\Apache24\htdocs\projects" />
   </component>
 </application>

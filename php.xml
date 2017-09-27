@@ -297,6 +297,7 @@
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="session" />
             <extension name="standard" />

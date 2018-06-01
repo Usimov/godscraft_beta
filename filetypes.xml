@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="PHP" />
       <mapping pattern="Test1" type="PHP" />
+      <mapping pattern="new_1" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <mapping pattern="new_58" type="PLAIN_TEXT" />
     </extensionMap>

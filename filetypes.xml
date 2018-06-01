@@ -3,9 +3,17 @@
     <extensionMap>
       <mapping pattern="test" type="PHP" />
       <mapping pattern="Test1" type="PHP" />
+      <mapping pattern="new_2" type="PLAIN_TEXT" />
       <mapping pattern="new_1" type="PLAIN_TEXT" />
+      <mapping pattern="new_14" type="PLAIN_TEXT" />
+      <mapping pattern="new_13" type="PLAIN_TEXT" />
+      <mapping pattern="new_5" type="PLAIN_TEXT" />
+      <mapping pattern="new_11" type="PLAIN_TEXT" />
+      <mapping pattern="new_10" type="PLAIN_TEXT" />
+      <mapping pattern="new_4" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <mapping pattern="new_58" type="PLAIN_TEXT" />
+      <mapping pattern="new_12" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

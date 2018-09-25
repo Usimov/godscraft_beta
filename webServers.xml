@@ -4,6 +4,22 @@
       <webServer id="f174acbc-84d1-42c1-a2dc-ba829c247246" name="wp_site" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a1b65a74-f4d3-48ed-871b-ba5945b047f2" name="make" url="http://ftp.vitrin.16mb.com">
+        <fileTransfer host="ftp.vitrin.16mb.com" port="21" rootFolder="/home/u302163794/domains/vitrin.16mb.com/public_html" password="df9bdf9bdf9bdf9bdf9bdf9b" username="u302163794.igorka">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ed1436b6-7ec5-4233-ae53-e5ce2b20d0db" name="make (1)" url="http://ftp.vitrin.16mb.com">
+        <fileTransfer host="ftp.vitrin.16mb.com" port="21" password="df9bdf9bdf9bdf9bdf9bdf9b" username="u302163794.igorka">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

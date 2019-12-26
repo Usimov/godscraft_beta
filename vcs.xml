@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/usimonline/by-by.info.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="usimonline" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Public\Apache24\htdocs\projects\by-by.info" />
